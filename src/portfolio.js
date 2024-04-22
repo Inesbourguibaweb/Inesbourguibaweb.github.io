@@ -457,30 +457,30 @@ const projects = {
         },
       ],
     },
-    // {
-    //   id: "3",
-    //   name: "My Portfolio",
-    //   url: "https://github.com/Boubakrifedi/Portfolio",
-    //   description: "A Software development Portfolio .",
-    //   languages: [
-    //     {
-    //       name: "React",
-    //       iconifyClass: "logos-react",
-    //     },
-    //     {
-    //       name: "HTML5",
-    //       iconifyClass: "vscode-icons:file-type-html",
-    //     },
-    //     {
-    //       name: "CSS3",
-    //       iconifyClass: "vscode-icons:file-type-css",
-    //     },
-    //     {
-    //       name: "JavaScript",
-    //       iconifyClass: "logos-javascript",
-    //     },
-    //   ],
-    // },
+    {
+      id: '3',
+      name: 'My Portfolio',
+      url: 'https://inesbourguibaweb-github.vercel.app/#/home',
+      description: 'A Software development Portfolio .',
+      languages: [
+        {
+          name: 'React',
+          iconifyClass: 'logos-react',
+        },
+        {
+          name: 'HTML5',
+          iconifyClass: 'vscode-icons:file-type-html',
+        },
+        {
+          name: 'CSS3',
+          iconifyClass: 'vscode-icons:file-type-css',
+        },
+        {
+          name: 'JavaScript',
+          iconifyClass: 'logos-javascript',
+        },
+      ],
+    },
     // {
     //   id: "4",
     //   name: "AiGot",
