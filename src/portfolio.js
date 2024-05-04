@@ -15,7 +15,7 @@ const greeting = {
   subTitle: '',
   quote: ' Results happen over time, not overnight. So, never stop learning !',
   resumeLink:
-    'https://drive.google.com/file/d/1nqJZk_7IC-eQ3ai3h0_V_ktpiHiByk8J/view?usp=sharing',
+    'https://drive.google.com/file/d/1J5NABcLWvb63Rdu3aNvk6TmywAvrMtuj/view?usp=sharing',
   mail: 'mailto:ines.bourguiba.enit@gmail.com',
 };
 
