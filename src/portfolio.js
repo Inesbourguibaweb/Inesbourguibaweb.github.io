@@ -15,7 +15,7 @@ const greeting = {
   subTitle: '',
   quote: ' Results happen over time, not overnight. So, never stop learning !',
   resumeLink:
-    'https://drive.google.com/file/d/1uSKLbIzv9DyYahi5bTH0gkuKpzwLqTXq/view?usp=sharing',
+    'https://drive.google.com/file/d/1nqJZk_7IC-eQ3ai3h0_V_ktpiHiByk8J/view?usp=sharing',
   mail: 'mailto:ines.bourguiba.enit@gmail.com',
 };
 
@@ -481,126 +481,6 @@ const projects = {
         },
       ],
     },
-    // {
-    //   id: "4",
-    //   name: "AiGot",
-    //   url: "https://github.com/Boubakrifedi/AiGot",
-    //   description: "Presentation App for AiGot Company.",
-    //   languages: [
-    //     {
-    //       name: "React",
-    //       iconifyClass: "logos-react",
-    //     },
-    //     {
-    //       name: "HTML5",
-    //       iconifyClass: "vscode-icons:file-type-html",
-    //     },
-    //     {
-    //       name: "CSS3",
-    //       iconifyClass: "vscode-icons:file-type-css",
-    //     },
-    //     {
-    //       name: "JavaScript",
-    //       iconifyClass: "logos-javascript",
-    //     },
-    //   ],
-    // },
-    // {
-    //   id: "5",
-    //   name: "SpaceX",
-    //   url: "https://github.com/Boubakrifedi/SpaceX",
-    //   description: "Clone app for SpaceX  ",
-    //   languages: [
-    //     {
-    //       name: "TypeScript",
-    //       iconifyClass: "logos-typescript",
-    //     },
-    //     {
-    //       name: "React",
-    //       iconifyClass: "logos-react",
-    //     },
-    //     {
-    //       name: "HTML5",
-    //       iconifyClass: "vscode-icons:file-type-html",
-    //     },
-    //     {
-    //       name: "CSS3",
-    //       iconifyClass: "vscode-icons:file-type-css",
-    //     },
-    //     {
-    //       name: "JavaScript",
-    //       iconifyClass: "logos-javascript",
-    //     },
-    //   ],
-    // },
-    // {
-    //   id: "6",
-    //   name: "EDLIGO ",
-    //   url: "https://github.com/Boubakrifedi/EDLIGO",
-    //   description: "This is a Dashboard page for EDLIGO company ",
-    //   languages: [
-    //     {
-    //       name: "REACT",
-    //       iconifyClass: "logos-react",
-    //     },
-    //     {
-    //       name: "HTML5",
-    //       iconifyClass: "vscode-icons:file-type-html",
-    //     },
-    //     {
-    //       name: "CSS3",
-    //       iconifyClass: "vscode-icons:file-type-css",
-    //     },
-    //     {
-    //       name: "JavaScript",
-    //       iconifyClass: "logos-javascript",
-    //     },
-    //     {
-    //       name: "Material UI ",
-    //       iconifyClass: "logos:material-ui",
-    //     },
-    //   ],
-    // },
-    // {
-    //   id: "7",
-    //   name: "GoApp",
-    //   url: "https://socialnetworkapp.netlify.app/",
-    //   description: "This is a social network app hosted in netlify and vercel ",
-    //   languages: [
-    //     {
-    //       name: "REACT",
-    //       iconifyClass: "logos-react",
-    //     },
-    //     {
-    //       name: "HTML5",
-    //       iconifyClass: "vscode-icons:file-type-html",
-    //     },
-    //     {
-    //       name: "SCSS",
-    //       iconifyClass: "vscode-icons:file-type-scss",
-    //     },
-    //     {
-    //       name: "JavaScript",
-    //       iconifyClass: "logos-javascript",
-    //     },
-    //     {
-    //       name: "Node",
-    //       iconifyClass: "logos:nodejs",
-    //     },
-    //     {
-    //       name: "MongoDB",
-    //       iconifyClass: "vscode-icons:file-type-mongo",
-    //     },
-    //     {
-    //       name: "Netlify",
-    //       iconifyClass: "vscode-icons:file-type-netlify",
-    //     },
-    //     {
-    //       name: "Vercel",
-    //       iconifyClass: "logos:vercel-icon",
-    //     },
-    //   ],
-    // },
     {
       id: '8',
       name: 'Tic-Tac-Toe',
